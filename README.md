@@ -133,6 +133,8 @@ void main(void)
 |---|---:|---:|---|
 | Released | LOW | LOW | OFF |
 | Pressed | HIGH | HIGH | ON |
+<img width="910" height="549" alt="image" src="https://github.com/user-attachments/assets/4b599a46-298e-4765-b1a5-d47d05217a87" />
+<img width="936" height="549" alt="image" src="https://github.com/user-attachments/assets/6ac29b4d-a159-4c7a-af97-b61482663b60" />
 
 ## Applications
 
@@ -144,5 +146,5 @@ void main(void)
 - Patient assistance systems
 
 ## Result
-
+When the push button connected to P1.4 is pressed,the buzzer sounds.When the push button is released
 The push button was successfully interfaced with the AT89C51 microcontroller. The buzzer and speaker were activated when the push button was pressed and switched OFF when the button was released.
